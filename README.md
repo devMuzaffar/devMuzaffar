@@ -56,7 +56,7 @@ I'm a passionate Front-End Web Developer. I enjoy UI development and bringing we
 
 ### 👱 Visitors count
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=devMuzaffar&style=for-the-badge)
 
 ### Stats
 
