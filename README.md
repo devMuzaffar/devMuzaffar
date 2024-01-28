@@ -1,4 +1,4 @@
-![Header](https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif)
+<img src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" width="100%" height="100%"/>
 
 
 <hr />
