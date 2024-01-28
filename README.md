@@ -1,4 +1,4 @@
-![Header](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
+![Header](https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif)
 
 
 <hr />
