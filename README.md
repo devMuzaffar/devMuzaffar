@@ -12,7 +12,7 @@
 
 <br />
 
-I'm a passionate Front-End Web Developer. I enjoy UI development and bringing web app ideas to life, I've developed 20+ personal projects and am currently expanding my skills to become a Full Stack Developer.
+I'm a passionate Full Stack Web Developer. I enjoy UI development and bringing web app ideas to life, I've developed 20+ personal projects and am currently expanding my skills to become a Full Stack Developer.
 
 <br />
 
